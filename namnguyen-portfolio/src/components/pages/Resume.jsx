@@ -1,21 +1,22 @@
 export default function Resume() {
   return (
     <div>
-      <h1>Blog Page</h1>
-      <p>
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
+      <h1>Resume</h1>
+      <h5>EDUCATION</h5>
+      <p>University of Kansas, Lawrence<br/>
+      KS Bachelor of Computer Science<br/>
+      Graduation: May 2020<br/>
+      Current GPA: 3.05<br/>
+      </p>
+      <h5>PROGRAMMING LANGUAGES</h5>
+      <p>C++ - 4 year proficiency<br/>
+      Python<br/>
+      JavaScript<br/>
+      CSS/HTML<br/>
+      Express<br/>
+      MySql<br/>
+      MongoDB<br/>
+      React<br/>
       </p>
     </div>
   );
